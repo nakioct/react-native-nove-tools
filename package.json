@@ -1,0 +1,31 @@
+{
+    "name": "react-native-nove-tools",
+    "version": "1.0.0",
+    "description": "this is designed for nove tools",
+    "homepage": "https://github.com/nakioct/react-native-nove-tools",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "react-native-nove-tools"
+    ],
+    "author": {
+      "name": "nove",
+      "email": "nove@example.com"
+    },
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/nakioct/react-native-nove-tools.git"
+    },
+    "peerDependencies": {
+      "react": ">=17.0.2",
+      "react-native": ">=0.68.2",
+      "react-native-splash-screen": "^3.2.0",
+      "react-native-root-toast": "^3.4.0",
+      "react-native-network-info": "5.2.1",
+      "react-native-code-push": "^7.0.5"
+    }
+  }
+  
